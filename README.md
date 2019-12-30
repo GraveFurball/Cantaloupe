@@ -9,6 +9,7 @@ Cantaloupe was inspired partially by FRC 6502's board, [the CANTina](https://git
 * Cantaloupe has the capacity for up to 20 CAN devices simultaneousely.
 * Cantaloupe has built in mounting holes for #4 screws, as well as holes intended for running zipties through to aid in cable management.
 * Cantaloupe has a built in jumper, allowing you to choose whether or not to terminate the CAN Bus on the board.
+* The hardware that we used to assemble Cantaloupe is contained within the "links" file.
 
 ## Warning:
 Star topology can be very fussy. It violates the ISO 11898 standard and is not officially supported by any manufacturer. I do not officially condone the use of star configuration, nor do I accept any responsibility in the event that star can causes damage to one or more of your CAN devices. **Please be careful!**

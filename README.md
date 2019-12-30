@@ -1,7 +1,7 @@
 # Cantaloupe
 Yet another star configuration CAN PCB for FRC
 
-![Cantaloupe](/Cantaloupe.png)
+![Cantaloupe](Cantaloupe.PNG)
 Cantaloupe is yet another PCB to enable an FRC CAN Bus to be laid out in a star topography. 
 Cantaloupe was inspired partially by FRC 6502's board, [the CANTina](https://github.com/21brownz/CANtina)
 * Cantaloupe utilizes Weidmuller LSF-SMT-3.5 push-to-connect terminal blocks to allow you to easily connect and disconnect devices.
